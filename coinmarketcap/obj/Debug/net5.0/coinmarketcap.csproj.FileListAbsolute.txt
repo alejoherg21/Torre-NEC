@@ -1,0 +1,96 @@
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\appsettings.Development.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\appsettings.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.exe
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.deps.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.runtimeconfig.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.runtimeconfig.dev.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\ref\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.pdb
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.AssemblyInfoInputs.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.AssemblyInfo.cs
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.CoreCompileInputs.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.MvcApplicationPartsAssemblyInfo.cs
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.MvcApplicationPartsAssemblyInfo.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\staticwebassets\coinmarketcap.StaticWebAssets.Manifest.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\scopedcss\bundle\coinmarketcap.styles.css
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.RazorTargetAssemblyInfo.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.CopyComplete
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\ref\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.pdb
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.genruntimeconfig.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.StaticWebAssets.xml
+E:\Alejo\Hoja de vida\Prueba NEC- torre\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.AssemblyReference.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\appsettings.Development.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\appsettings.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.exe
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.deps.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.runtimeconfig.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.runtimeconfig.dev.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\ref\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.pdb
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csprojAssemblyReference.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.AssemblyInfoInputs.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.AssemblyInfo.cs
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.CoreCompileInputs.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.MvcApplicationPartsAssemblyInfo.cs
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.MvcApplicationPartsAssemblyInfo.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\staticwebassets\coinmarketcap.StaticWebAssets.Manifest.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\staticwebassets\coinmarketcap.StaticWebAssets.xml
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\scopedcss\bundle\coinmarketcap.styles.css
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.RazorTargetAssemblyInfo.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.CopyComplete
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\ref\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.pdb
+E:\Alejo\Hoja de vida\Prueba NEC- torre\APIcoinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.genruntimeconfig.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\appsettings.Development.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\appsettings.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.exe
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.deps.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.runtimeconfig.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.runtimeconfig.dev.json
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\ref\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\coinmarketcap.pdb
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csprojAssemblyReference.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.AssemblyInfoInputs.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.AssemblyInfo.cs
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.CoreCompileInputs.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.MvcApplicationPartsAssemblyInfo.cs
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.MvcApplicationPartsAssemblyInfo.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\staticwebassets\coinmarketcap.StaticWebAssets.Manifest.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\staticwebassets\coinmarketcap.StaticWebAssets.xml
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\scopedcss\bundle\coinmarketcap.styles.css
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.RazorTargetAssemblyInfo.cache
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.csproj.CopyComplete
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\ref\coinmarketcap.dll
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.pdb
+E:\Alejo\Hoja de vida\Prueba NEC- torre\Prueba tecnica\coinmarketcap\coinmarketcap\obj\Debug\net5.0\coinmarketcap.genruntimeconfig.cache
